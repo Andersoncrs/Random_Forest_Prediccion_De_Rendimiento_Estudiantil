@@ -6,7 +6,7 @@ Este proyecto tiene como objetivo analizar y predecir el rendimiento estudiantil
 
 ## 🗂️ Descripción del Proyecto
 
-El proyecto está estructurado en notebooks de Jupyter, lo que facilita la visualización, el análisis y la interpretación de los datos de manera interactiva. Se abordan todas las etapas esenciales de un pipeline de machine learning:
+El proyecto está estructurado en Jupyter Notebook, lo que facilita la visualización, el análisis y la interpretación de los datos de manera interactiva. Se abordan todas las etapas esenciales de un pipeline de machine learning:
 
 1. **Carga y exploración de datos**
 2. **Preprocesamiento y limpieza**
@@ -20,7 +20,6 @@ El proyecto está estructurado en notebooks de Jupyter, lo que facilita la visua
 - **NumPy**: Operaciones numéricas
 - **Matplotlib** & **Seaborn**: Visualización de datos
 - **Scikit-learn**: Modelado predictivo y métricas de evaluación
-- **Jupyter Notebook**: Entorno interactivo para desarrollo y documentación
 
 ## 🔍 Análisis de Datos
 
@@ -59,3 +58,10 @@ El modelo logró un desempeño satisfactorio en la predicción del rendimiento e
 - Técnicas de Machine Learning supervisado (Random Forest)
 - Evaluación y validación de modelos
 - Interpretación de resultados y toma de decisiones basada en datos
+
+## 📬 Contacto
+
+Para cualquier consulta o comentario, pueden contactarme a través de LinkedIn en el siguiente enlace: [LinkedIn](www.linkedin.com/in/andersoncrs) o a través del correo electrónico: andersoncamilo.rodriguez.s@gmail.com.
+
+## 📜 Licencia
+Este proyecto está bajo la licencia [Apache 2.0](LICENSE).
