@@ -1,4 +1,4 @@
-# Random_Forest_Prediccion_De_Rendimiento_Estudiantil
+# Predicción Del Rendimiento Estudiantil - Random Forest
 ![](https://raw.githubusercontent.com/Andersoncrs/Random_Forest_Prediccion_De_Rendimiento_Estudiantil/refs/heads/main/Banner_Random_Forest.png)
 
 ## 📊 Introducción
